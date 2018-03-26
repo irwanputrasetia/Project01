@@ -11,6 +11,6 @@ package project01;
  */
 public class ikanAksi {
     public static void main(String[] args) {
-        
+        Ikan lumba_lumba = new Ikan();
     }
 }
