@@ -29,5 +29,9 @@ public class ikanAksi {
         hiu.gigi="Taring Tajam";
         hiu.makan="Semua Daging";
         hiu.produksi="Bertelur";
+        
+        lumba_lumba.cetakInfo();
+        paus.cetakInfo();
+        hiu.cetakInfo();
     }
 }
